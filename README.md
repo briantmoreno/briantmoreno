@@ -10,13 +10,13 @@ I'm a data scientist in process. 📉
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-FB9925?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![Pandas](https://img.shields.io/badge/Pandas-0078D7?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
-![Scikit](https://img.shields.io/badge/SciKit-FFD700?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)
-![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
+![MySQL](https://img.shields.io/badge/MySQL-6FA8DC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+![Pandas](https://img.shields.io/badge/Pandas-FFD966?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
+![Scikit](https://img.shields.io/badge/SciKit-FA7E03?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)
+![Linux](https://img.shields.io/badge/Linux-6FA8DC?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
 
 ## Find me at:
 
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=CC0000&labelColor=3A3B3C&color=62F1CD)](mailto:briantpmorenop@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Briant_Moreno-blue?style=flat-square&logo=gmail&logoColor=0973C4&labelColor=3A3B3C&color=FFFFFF)](https://www.linkedin.com/in/briant-p-moreno-p)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green-CC0000?style=flat-square&logo=gmail&logoColor=white&labelColor=3A3B3C&color=62F1CD)](mailto:briantpmorenop@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Briant_Moreno-blue?style=flat-square&logo=linkedin&logoColor=0973C4&labelColor=3A3B3C&color=FFFFFF)](https://www.linkedin.com/in/briant-p-moreno-p)
 
