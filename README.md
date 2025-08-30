@@ -1,4 +1,4 @@
-# Hello, I am Briant Moreno 👋
+# Hello, and welcome to my github profile! 🙋🏽
 ![image](https://github.com/pmor-06/briantmoreno/blob/main/data_science_background.jpg)
 
 ## About me:
@@ -8,14 +8,14 @@ I'm a data scientist in process. 📉
 - 🤖 I'm studying at TripleTen to become a Data Scientist.
 - 👨🏽‍🔬 I'm a Nanotechnolgy Engineer.
 
-## Skills:
+## 🥷🏽 Skills:
 ![Python](https://img.shields.io/badge/Python-FB9925?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![MySQL](https://img.shields.io/badge/MySQL-6FA8DC?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Pandas](https://img.shields.io/badge/Pandas-FFD966?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)
 ![Scikit](https://img.shields.io/badge/SciKit-FA7E03?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=101010)
 ![Linux](https://img.shields.io/badge/Linux-6FA8DC?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
 
-## Find me at:
+## 📬 Find me at:
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA1E1E&color=3BAC0A)](mailto:briantpmorenop@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Briant_Moreno-blue?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=3A3B3C&color=2284DD)](https://www.linkedin.com/in/briant-p-moreno-p)
 
