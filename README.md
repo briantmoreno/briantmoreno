@@ -13,5 +13,5 @@ I'm a data scientist in process. 📉
 
 ## Find me at:
 
-![Static Badge](https://img.shields.io/badge/briantpmorenop%40gmail.com?style=for-the-badge&logo=%23EA4335&logoColor=white&labelColor=101010)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:briantpmorenop@gmail.com)
 
