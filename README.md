@@ -17,6 +17,6 @@ I'm a data scientist in process. 📉
 
 ## Find me at:
 
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green-CC0000?style=flat-square&logo=gmail&logoColor=white&labelColor=3A3B3C&color=62F1CD)](mailto:briantpmorenop@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green-red?style=flat-square&logo=gmail&logoColor=white&labelColor=3A3B3C&color=62F1CD)](mailto:briantpmorenop@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Briant_Moreno-blue?style=flat-square&logo=linkedin&logoColor=0973C4&labelColor=3A3B3C&color=FFFFFF)](https://www.linkedin.com/in/briant-p-moreno-p)
 
