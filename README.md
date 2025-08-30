@@ -16,6 +16,6 @@ I'm a data scientist in process. 📉
 ![Linux](https://img.shields.io/badge/Linux-6FA8DC?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)
 
 ## Find me at:
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=c50b0b)](mailto:briantpmorenop@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Briant_Moreno-blue?style=for-the-badge&logo=linkedin&logoColor=0973C4&labelColor=3A3B3C&color=FFFFFF)](https://www.linkedin.com/in/briant-p-moreno-p)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=93C47D)](mailto:briantpmorenop@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Briant_Moreno-blue?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=3A3B3C&color=2284DD)](https://www.linkedin.com/in/briant-p-moreno-p)
 
